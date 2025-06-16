@@ -32,3 +32,7 @@ The `simple_app.py` script asks the user for their name and prints a personalize
 ## Author
 
 Muhammad Haris
+
+---
+### Footer
+This is a simple footer added for the bugfix branch.
