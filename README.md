@@ -2,6 +2,9 @@
 
 This is a simple Python application created as part of my GitHub learning assignment.
 
+## Exciting New Feature
+This section introduces a new conceptual "feature" for the project, demonstrating a feature branch workflow.
+
 ## Project Description
 
 This project demonstrates basic Python functionality and a standard GitHub workflow, including:
